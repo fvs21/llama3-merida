@@ -1,0 +1,410 @@
+[
+  {
+    "input": "Where can I eat late at night in Mérida?",
+    "output": "If you're out late and craving something delicious, check out La Gibba — it's one of the best spots for Arabic-style tacos. El Ñero is another solid choice with good food at great prices. And if you're after classic Mexican tacos, Mixe is super affordable and seriously tasty.\n\nQuestions:\n1. Are you near downtown or somewhere else in the city?\n2. Are you craving tacos or something else?"
+  },
+  {
+    "input": "Any good spots for late-night food in Mérida?",
+    "output": "You should definitely visit La Gibba — amazing and popular choice for Arabic-style tacos. El Ñero is another solid choice with good food at great prices. And if you're after classic Mexican tacos, Mixe is super affordable and seriously tasty.\n\nQuestions:\n1. Are you near downtown or somewhere else in the city?\n2. Are you craving tacos or something else?"
+  },
+  {
+    "input": "I'm hungry after midnight in Mérida. Where can I go?",
+    "output": "La Gibba is definitely worth trying for their excellent Arabic-style tacos when you're hungry late at night. El Ñero is also recommended for good quality food at reasonable prices. If you're in the mood for traditional Mexican tacos, Mixe offers great value and flavor.\n\nQuestions:\n1. Are you near downtown or somewhere else in the city?\n2. Are you craving tacos or something else?"
+  },
+  {
+    "input": "What's some good food from Yucatán?",
+    "output": "You should definitely try cochinita pibil — it's one of the most iconic dishes in Yucatán, and you can have it in tacos or tortas. Panuchos and salbutes are also must-tries. They're crispy, full of flavor, and super popular with both locals and visitors."
+  },
+  {
+    "input": "What are some traditional dishes I should try in Yucatán?",
+    "output": "Cochinita pibil is a must-try — it's an iconic Yucatecan dish that you can enjoy in tacos or tortas. Don't miss panuchos and salbutes as well. They're wonderfully crispy, packed with flavor, and beloved by both locals and tourists alike."
+  },
+  {
+    "input": "What local specialties should I eat while visiting Yucatán?",
+    "output": "Make sure to taste cochinita pibil during your visit — this signature dish represents Yucatecan cuisine perfectly and is available in both tacos and tortas. Also try the panuchos and salbutes, which are delightfully crispy with rich flavors that have made them favorites among locals and travelers."
+  },
+  {
+    "input": "Where can I get a good breakfast in Mérida?",
+    "output": "La Libertad is a great place to start your day. They serve generous portions, the food is tasty, and the prices are really reasonable. It's a local favorite for a reason!"
+  },
+  {
+    "input": "What's a good breakfast spot in Mérida?",
+    "output": "For a great breakfast, head to La Libertad. Their portions are generous, the food is delicious, and prices won't break the bank. There's a reason locals love this place!"
+  },
+  {
+    "input": "Where do the locals eat breakfast in Mérida?",
+    "output": "La Libertad is where many locals start their morning. You'll get hearty portions of tasty food at very fair prices, which explains why it's such a popular breakfast destination in the city."
+  },
+  {
+    "input": "Any recommendations for dinner in Mérida?",
+    "output": "If you're in the mood for American food, Hey Joe is one of the best spots in the city — their chili and burgers are top-notch. For authentic Italian pizza, Barrio Napoli is a local favorite. If you're craving wings or boneless, Wings Attack is a solid choice, and Boston's is great for casual snacks and a relaxed vibe."
+  },
+  {
+    "input": "Where should I go for dinner in Mérida?",
+    "output": "For American cuisine, try Hey Joe — they serve excellent chili and burgers. If you're craving Italian, Barrio Napoli offers authentic pizza that locals love. Wings Attack is perfect if you want wings or boneless chicken, while Boston's provides casual snacks in a laid-back atmosphere."
+  },
+  {
+    "input": "What are some good restaurants for dinner in Mérida?",
+    "output": "Hey Joe stands out for American food with exceptional chili and burgers. For authentic Italian pizza, locals recommend Barrio Napoli. Wings Attack specializes in tasty wings and boneless options, and Boston's offers a relaxed environment with casual snacks."
+  },
+  {
+    "input": "Where can I go to have fun in Mérida?",
+    "output": "Are you thinking of going out to a bar, club, or something more chill like games or live music?"
+  },
+  {
+    "input": "What are some entertainment options in Mérida?",
+    "output": "Would you prefer bars, clubs, or something more relaxed like gaming venues or places with live music?"
+  },
+  {
+    "input": "What can I do for fun in Mérida?",
+    "output": "Are you interested in nightlife like bars and clubs, or would you prefer more casual entertainment like games, activities or live performances?"
+  },
+  {
+    "input": "I want to go clubbing in Mérida. Where should I go?",
+    "output": "Classico is a solid choice if you're looking for a classic nightclub experience. Lately, Feder has also been gaining a lot of popularity — it's newer and has a fun, younger crowd. Just a heads up: if you're visiting during the summer, many of the popular clubs move to the beach in Progreso, so the party scene shifts closer to the coast."
+  },
+  {
+    "input": "Which nightclubs are popular in Mérida?",
+    "output": "Check out Classico for a traditional nightclub experience that's consistently good. Feder has been getting very popular lately — it's newer with a younger, energetic crowd. Keep in mind that during summer months, many clubs relocate to Progreso beach, moving the nightlife scene closer to the coastline."
+  },
+  {
+    "input": "What are the best clubs for dancing in Mérida?",
+    "output": "For dancing, Classico offers a reliable and established nightclub atmosphere. Feder is trending right now with its fresher vibe and younger patrons. Remember that during summer season, much of the club scene transitions to Progreso beach area, so you might want to follow the crowd there for the best experience."
+  },
+  {
+    "input": "Where can I go for a chill night out or drinks in Mérida?",
+    "output": "If you want a bar with a great atmosphere and solid food, **Tigre Blanco** and **Flamel** are excellent choices. For something more affordable and lively, **Cotorritos** has great prices and good music. If you're around the city center, **El Catrín** and **Pipiripau** are also fun options — popular with locals and great for a night out without going too far."
+  },
+  {
+    "input": "What are some good bars for a relaxed evening in Mérida?",
+    "output": "**Tigre Blanco** and **Flamel** offer great ambiance and good food if you're looking for quality bars. For something budget-friendly with a lively atmosphere, **Cotorritos** has excellent prices and music. If you're in the downtown area, **El Catrín** and **Pipiripau** are popular local spots perfect for a casual night out."
+  },
+  {
+    "input": "Where should I go for drinks with friends in Mérida?",
+    "output": "For a night out with friends, **Tigre Blanco** and **Flamel** are highly recommended for their excellent ambiance and food options. If you're watching your budget but still want a fun atmosphere, **Cotorritos** is ideal with its reasonable prices and good music. Near the center? **El Catrín** and **Pipiripau** are local favorites that provide a great social experience."
+  },
+  {
+    "input": "Is there anything fun to do in Mérida like bowling or arcades?",
+    "output": "Definitely! You can go bowling at **Altabrisa Bowling** or **Sport Bowl** — both are solid spots. For arcades and family-friendly games, **Recorcholis** is a classic. And if you're into something more exciting, **Gokartmania** is great for go-kart racing with friends."
+  },
+  {
+    "input": "Where can I find entertainment like bowling or arcade games in Mérida?",
+    "output": "You have several options! For bowling, check out **Altabrisa Bowling** or **Sport Bowl** — both are excellent choices. **Recorcholis** is the go-to place for arcade games and family entertainment. If you're looking for something more thrilling, **Gokartmania** offers exciting go-kart racing that's perfect with friends."
+  },
+  {
+    "input": "Are there places for indoor activities and games in Mérida?",
+    "output": "Mérida has plenty of indoor entertainment options. You can enjoy bowling at either **Altabrisa Bowling** or **Sport Bowl**, both offering good lanes and facilities. For arcade games and family fun, **Recorcholis** is the most popular choice. If you prefer something more adventurous, **Gokartmania** provides thrilling go-kart racing experiences."
+  },
+  {
+    "input": "Where can I go to watch a movie in Mérida?",
+    "output": "Definitely check out **Cinépolis** — it's modern, comfortable, and a reliable choice for catching the latest movies. Some locations even have premium options like reclining seats and food service, so it's a really cozy way to relax."
+  },
+  {
+    "input": "Are there any good movie theaters in Mérida?",
+    "output": "**Cinépolis** is your best bet — it's a modern cinema with comfortable seating and all the latest releases. Some of their theaters even offer premium experiences with reclining seats and in-theater dining, making it an extra comfortable way to enjoy movies."
+  },
+  {
+    "input": "Where's the best cinema in Mérida?",
+    "output": "**Cinépolis** stands out as the premier cinema option in the city. Their theaters feature contemporary facilities with comfortable seating and current films. For an enhanced experience, several locations offer premium services including reclining chairs and food delivery to your seat."
+  },
+  {
+    "input": "Where can I eat in Mérida if I'm on a budget?",
+    "output": "If you're looking for tasty food without spending too much, **Hey Joe**, **Mixe**, **El Ñero**, **La Giba**, and **Jardín Balbuena** are great options. They all serve filling, flavorful meals at really good prices — perfect if you want something casual and affordable."
+  },
+  {
+    "input": "What are some affordable places to eat in Mérida?",
+    "output": "For budget-friendly but delicious meals, try **Hey Joe**, **Mixe**, **El Ñero**, **La Giba**, or **Jardín Balbuena**. All these places offer satisfying, flavorful food at reasonable prices — ideal for casual dining without spending too much."
+  },
+  {
+    "input": "Where can I find inexpensive but good food in Mérida?",
+    "output": "When you're watching your budget but still want quality food, check out **Hey Joe**, **Mixe**, **El Ñero**, **La Giba**, and **Jardín Balbuena**. These spots offer excellent value with hearty, delicious meals at wallet-friendly prices — perfect for enjoying local flavors without overspending."
+  },
+  {
+    "input": "Can you recommend a romantic spot for dinner in Mérida?",
+    "output": "**Izakaya Sushi** is a great choice if you're into sushi — the food is top quality and the atmosphere is perfect for a cozy dinner. If you prefer Italian, **Barrio Napoli** has what's probably the best pizza in Mérida, with a warm vibe that's great for a relaxed, romantic evening."
+  },
+  {
+    "input": "Where's a good place for a date night dinner in Mérida?",
+    "output": "**Izakaya Sushi** offers excellent food and an intimate atmosphere that's perfect for a date night. If you prefer Italian cuisine, **Barrio Napoli** serves the best pizza in the city with a warm, romantic ambiance ideal for a special evening together."
+  },
+  {
+    "input": "I'm planning a romantic dinner in Mérida. Any suggestions?",
+    "output": "For a romantic evening, **Izakaya Sushi** creates the perfect setting with premium quality food and an intimate atmosphere. If Italian is more your style, **Barrio Napoli** is renowned for serving the best pizza in town in a warm, cozy environment that naturally lends itself to romantic occasions."
+  },
+  {
+    "input": "Where can I go in Mérida if I'm craving dessert or something sweet?",
+    "output": "If you're in the mood for dessert, **Cimonnis** is a great option — they have really good sweets and their coffee is excellent too. For cookies, **Galletas Dr.** is one of the most popular spots in the city — super well-known and loved by locals."
+  },
+  {
+    "input": "Any good dessert places in Mérida?",
+    "output": "When you need to satisfy your sweet tooth, head to **Cimonnis** — they serve delicious desserts and their coffee is outstanding too. If you're specifically looking for cookies, **Galletas Dr.** is incredibly popular among locals and has quite a following."
+  },
+  {
+    "input": "Where can I find the best sweets and desserts in Mérida?",
+    "output": "For exceptional desserts, **Cimonnis** is highly recommended — they offer wonderful sweet treats along with excellent coffee. If cookies are what you're after, **Galletas Dr.** has developed a strong reputation among locals as the go-to destination for delicious cookies."
+  },
+  {
+    "input": "Where can I go for a good lunch in Mérida?",
+    "output": "For a solid lunch, **La Rueda** is a great spot — they serve incredible Argentinian food, from grilled meats to empanadas. If you're craving tacos, **Los Taquitos de PM** are amazing, though a bit on the pricey side. For something different, **Fattoush** offers tasty Lebanese dishes, and **Mitica** is a go-to for really good burgers."
+  },
+  {
+    "input": "What are some good lunch options in Mérida?",
+    "output": "**La Rueda** is excellent for lunch — they specialize in delicious Argentinian cuisine including grilled meats and empanadas. For great tacos, try **Los Taquitos de PM**, though they're slightly more expensive. **Fattoush** offers wonderful Lebanese food for something different, and **Mitica** serves fantastic burgers if that's what you're in the mood for."
+  },
+  {
+    "input": "What are the best places for lunch in Mérida?",
+    "output": "For an outstanding lunch experience, visit **La Rueda** for their exceptional Argentinian dishes including perfectly grilled meats and authentic empanadas. **Los Taquitos de PM** offers superior tacos, though at a premium price. For international variety, try **Fattoush** for excellent Lebanese cuisine, or head to **Mitica** if you're craving a high-quality burger."
+  },
+  {
+    "input": "What's the best way to get around Mérida?",
+    "output": "**Uber** is a solid and reliable choice — it's basically the standard for getting around the city. You can also try **Va y Ven**, Mérida's modern public transport system. It's clean and efficient, but you'll want to check the schedules and routes in advance to make sure it fits your plans."
+  },
+  {
+    "input": "How should I get around in Mérida?",
+    "output": "**Uber** is the most convenient option and widely used throughout Mérida. Another good choice is the **Va y Ven** public transport system, which is modern and efficient. Just be sure to check the routes and schedules beforehand to plan your journey properly."
+  },
+  {
+    "input": "What transportation options are available in Mérida?",
+    "output": "Most people rely on **Uber** as the primary transportation method for its convenience and reliability. The city also offers the **Va y Ven** public transportation system, which provides a clean, efficient alternative. If you choose the public option, remember to review the routes and timetables in advance to ensure it works for your itinerary."
+  },
+  {
+    "input": "Is Mérida bike/scooter friendly?",
+    "output": "Yes, but mostly around the city center. That area is more walkable and has better infrastructure for bikes and scooters. In other parts of the city, it can be a bit harder to get around safely on two wheels."
+  },
+  {
+    "input": "Can I easily get around Mérida on a bike or scooter?",
+    "output": "In the city center, yes — that area has good infrastructure for cyclists and scooter riders, plus it's very walkable. However, in other neighborhoods and areas of Mérida, two-wheeled transportation can be more challenging and potentially less safe."
+  },
+  {
+    "input": "Is it practical to use bikes or scooters for transportation in Mérida?",
+    "output": "It depends on where you're going. The city center is quite friendly to bikes and scooters, with appropriate infrastructure and walkable streets. Beyond the central area, though, conditions become less favorable for two-wheeled transport, with safety becoming more of a concern."
+  },
+  {
+    "input": "What's the best way to get from the Mérida airport?",
+    "output": "This can be a bit tricky because there's some ongoing tension between **Uber drivers** and **airport taxi services**. Technically, Ubers are allowed, but they're not always welcomed inside the airport area. Your best bet is still using **Uber**, but you'll usually need to message your driver and arrange to meet just outside the airport terminal — often a short walk to the pickup zone on the street. It's worth it for the price and convenience, just be prepared to coordinate."
+  },
+  {
+    "input": "How do I get transportation from Mérida airport to the city?",
+    "output": "The situation is somewhat complicated due to tensions between **Uber drivers** and **airport taxi services**. While Uber is technically permitted, drivers often aren't welcomed within the airport grounds. Your best option is still Uber for the price advantage, but you'll likely need to coordinate with your driver to meet outside the terminal area, usually requiring a short walk to the pickup zone. The extra coordination is worth it for the savings and convenience."
+  },
+  {
+    "input": "What's the easiest way to travel from Mérida airport to downtown?",
+    "output": "Though not without complications, **Uber** remains your best option despite the tensions with **airport taxi services**. While Uber is legally allowed, there's resistance to their presence at the airport. To use Uber, you'll typically need to message your driver and arrange to meet them outside the terminal area, which may require walking a short distance to the street pickup zone. Despite this minor inconvenience, most travelers find the price savings worthwhile."
+  },
+  {
+    "input": "Where should I stay in Mérida?",
+    "output": "**Hotels** are usually the best bet — they're reliable, easy to book, and often in good locations. **Airbnbs** can also be a great option, especially if you want a more local or longer-term experience, but make sure to check reviews and the neighborhood before booking."
+  },
+  {
+    "input": "What accommodation options do you recommend in Mérida?",
+    "output": "**Hotels** are typically your safest choice — they're dependable, simple to reserve, and generally well-located. **Airbnbs** are excellent alternatives, particularly for longer stays or if you want a more authentic experience, but do research the reviews and neighborhood carefully before making your reservation."
+  },
+  {
+    "input": "What's the best type of lodging in Mérida?",
+    "output": "**Hotels** remain the most straightforward choice — offering reliability, convenient booking systems, and typically favorable locations. For those seeking more immersive or extended stays, **Airbnbs** provide excellent alternatives, though it's important to thoroughly research both reviews and neighborhood safety before finalizing any reservation."
+  },
+  {
+    "input": "Is Mérida safe? Any tips I should know?",
+    "output": "Mérida is actually known as the safest city in Mexico, and for good reason — it has a very calm vibe and low crime rates. That said, it's still smart to take some basic precautions. Avoid walking alone on dark or empty streets at night, always share your Uber ride status with someone you trust, keep your belongings secure in public places, and be mindful of your surroundings — especially in unfamiliar areas. Just staying aware goes a long way."
+  },
+  {
+    "input": "How safe is Mérida and what precautions should I take?",
+    "output": "Mérida is widely considered the safest city in Mexico, with a peaceful atmosphere and very low crime rates. However, it's still wise to take standard precautions: avoid isolated dark streets at night, share your ride details when using Uber, keep valuables secure, and stay alert in unfamiliar areas. Basic awareness is usually sufficient to stay safe here."
+  },
+  {
+    "input": "Should I be concerned about safety in Mérida?",
+    "output": "Not particularly — Mérida is renowned as Mexico's safest city, boasting tranquil streets and minimal crime. Nevertheless, common-sense precautions are still advisable: avoid isolated areas after dark, share your transportation details with someone when using rideshare services, keep valuables secure, and maintain general awareness of your surroundings, particularly in less familiar neighborhoods."
+  },
+  {
+    "input": "Where can I go shopping in Mérida?",
+    "output": "The most popular malls are **Altabrisa**, **La Isla**, and **La Gran Plaza**. Each of them has plenty of stores, from clothing to electronics, and lots of places to eat as well. They're great spots to shop, hang out, or just walk around indoors — especially when it's hot outside."
+  },
+  {
+    "input": "What are the best shopping malls in Mérida?",
+    "output": "**Altabrisa**, **La Isla**, and **La Gran Plaza** are the top malls in the city. Each offers a wide variety of stores selling everything from fashion to electronics, plus numerous dining options. They're perfect for shopping, socializing, or simply enjoying air-conditioned spaces during hot weather."
+  },
+  {
+    "input": "Where do people go for shopping in Mérida?",
+    "output": "The three major shopping destinations are **Altabrisa**, **La Isla**, and **La Gran Plaza** malls. Each complex houses numerous shops covering fashion, electronics, and other retail categories, along with diverse dining options. Beyond just shopping, these malls serve as social hubs and welcome retreats from the heat with their air-conditioned interiors."
+  },
+  {
+    "input": "Where can I buy school supplies or tech stuff in Mérida?",
+    "output": "**Office Max** and **Office Depot** are both solid options for school supplies — they've got everything from notebooks to stationery. If you're looking for tech gear like laptops, accessories, or chargers, **Amazon** is probably your best bet for variety and fast delivery."
+  },
+  {
+    "input": "Where can I shop for school supplies and tech gadgets in Mérida?",
+    "output": "For school supplies, head to either **Office Max** or **Office Depot** — they carry comprehensive selections from notebooks to all kinds of stationery. When it comes to tech items like laptops or accessories, **Amazon** tends to offer the best variety and delivery speed in the area."
+  },
+  {
+    "input": "Where can I find office supplies and electronics in Mérida?",
+    "output": "For office and school supplies, both **Office Max** and **Office Depot** provide extensive selections covering everything from basic stationery to organizational materials. When shopping for electronics and tech accessories, most locals rely on **Amazon** for its unmatched product range and efficient delivery service."
+  },
+  {
+    "input": "Where can I print stuff or do school-related errands in Mérida?",
+    "output": "**Impress** is a reliable place to print documents — quick and easy. You can also go to **Office Max** or **Office Depot**, which are great for both printing and picking up school or office supplies while you're at it."
+  },
+  {
+    "input": "Where can I get documents printed in Mérida?",
+    "output": "**Impress** is a dependable option for quick and hassle-free document printing. Alternatively, **Office Max** and **Office Depot** offer printing services plus the convenience of being able to purchase school or office supplies during the same visit."
+  },
+  {
+    "input": "Where should I go for document printing in Mérida?",
+    "output": "For printing needs, **Impress** is known for their efficient and reliable service. If you also need to purchase supplies, consider **Office Max** or **Office Depot**, where you can handle both printing jobs and pick up any school or office materials you might need in one stop."
+  },
+  {
+    "input": "Where can I go study in Mérida?",
+    "output": "A coffee shop like **Starbucks** is always a reliable option — they've got Wi-Fi, air conditioning, and a calm atmosphere that's great for studying or getting some work done."
+  },
+  {
+    "input": "What are good study spots in Mérida?",
+    "output": "**Starbucks** is a dependable choice for studying — you'll find good Wi-Fi, comfortable air conditioning, and a quiet environment conducive to focusing on your work or studies."
+  },
+  {
+    "input": "Where's a quiet place to study or work in Mérida?",
+    "output": "**Starbucks** locations around the city provide reliable environments for studying or working. They offer the essential combination of decent Wi-Fi connectivity, comfortable climate control, and a generally peaceful atmosphere that helps with concentration and productivity."
+  },
+  {
+    "input": "How can I save money as a student in Mérida?",
+    "output": "If you really want to save, skip the convenience stores like **Oxxo** and shop at **Farmacias Guadalajara** — it's usually cheaper for basic items. For transport, take the **Va y Ven** bus system. Getting the Va y Ven card is a smart move, and there's even a special card with discounts for students. When it comes to shopping, just try to be mindful — a little awareness goes a long way."
+  },
+  {
+    "input": "What are some money-saving tips for students in Mérida?",
+    "output": "To cut costs, avoid convenience stores like **Oxxo** and shop at **Farmacias Guadalajara** instead — they typically have lower prices on everyday essentials. Use the **Va y Ven** bus system for transportation, and make sure to get their card, especially the student version which offers discounts. Being conscious about your spending habits in general will help you save significantly."
+  },
+  {
+    "input": "How can students live economically in Mérida?",
+    "output": "One key strategy is avoiding convenience stores like **Oxxo** in favor of **Farmacias Guadalajara**, which generally offers better prices on everyday necessities. For transportation, the **Va y Ven** bus system is economical, especially with their student discount card. Additionally, developing budget-conscious shopping habits and being mindful about unnecessary expenses will help stretch your finances further."
+  },
+  {
+    "input": "How do I get a Va y Ven student card in Mérida?",
+    "output": "To get a **Va y Ven student card**, you'll need to go to a designated module and present a few documents: an official ID, a proof of address, and a current proof of enrollment. Once you've submitted everything, you'll be able to get the student version of the card, which gives you discounted fares on Mérida's public transport system.\n\nYou can find the modules at places like:\n- Plaza Las Américas\n- Plaza Fiesta\n- Plaza Oriente\n- Colonia México\n- Dirección de Transportes Va y Ven (Avenida Reforma)\n- Oficinas Administrativas en Los Paseos Mérida"
+  },
+  {
+    "input": "What's the process for getting a student discount card for Va y Ven in Mérida?",
+    "output": "To obtain a **Va y Ven student card**, visit one of their official modules with three essential documents: your official ID, proof of address, and current enrollment verification. After submitting these documents, you'll receive the student version of the card that provides discounted rates on Mérida's public transportation.\n\nThe modules can be found at these locations:\n- Plaza Las Américas\n- Plaza Fiesta\n- Plaza Oriente\n- Colonia México\n- Dirección de Transportes Va y Ven (Avenida Reforma)\n- Oficinas Administrativas en Los Paseos Mérida"
+  },
+  {
+    "input": "Where and how can students get discounted bus fare cards in Mérida?",
+    "output": "Students can obtain the discounted **Va y Ven card** by visiting any official module with three required documents: official identification, proof of residence, and valid proof of current enrollment. After document verification, you'll receive the student-specific card that offers reduced fares throughout the public transport network.\n\nLocations to get your card include:\n- Plaza Las Américas\n- Plaza Fiesta\n- Plaza Oriente\n- Colonia México\n- Dirección de Transportes Va y Ven (Avenida Reforma)\n- Oficinas Administrativas en Los Paseos Mérida"
+  },
+  {
+    "input": "What apps should I have if I'm living in Mérida?",
+    "output": "**Uber** is a must for getting around — it's reliable and widely used. For food delivery, **Rappi** is super convenient and covers a lot of local restaurants. And if you're looking for food recommendations, check out **Instagram** and follow accounts like **@siseantoja** — they post great local spots to try."
+  },
+  {
+    "input": "Which apps are essential when living in Mérida?",
+    "output": "Make sure to download **Uber** for reliable transportation around the city. For food delivery, **Rappi** is excellent with extensive coverage of local restaurants. Also consider using **Instagram** and following accounts like **@siseantoja** for discovering great local food recommendations."
+  },
+  {
+    "input": "What smartphone apps would you recommend for someone in Mérida?",
+    "output": "Three apps stand out as particularly useful: **Uber** for consistent and reliable transportation services, **Rappi** for convenient food delivery from a wide range of local restaurants, and **Instagram** where following accounts like **@siseantoja** will help you discover excellent dining spots around the city."
+  },
+  {
+    "input": "Any tips for adapting to the weather in Mérida?",
+    "output": "This one's tough — the weather in Mérida can be intense. It gets really hot, especially in months like **May**, so be ready for high temperatures and humidity. Make sure to **stay hydrated**, wear **light clothing**, and always carry **sunscreen** if you're going to be out during the day. Try to plan indoor activities during peak heat hours (around 1–4 PM), and take advantage of air-conditioned spaces whenever possible."
+  },
+  {
+    "input": "How can I deal with Mérida's hot weather?",
+    "output": "Mérida's climate can be quite challenging, particularly during hot months like **May**. Always **stay hydrated**, choose **lightweight clothing**, and apply **sunscreen** regularly when outdoors. Schedule indoor activities during the hottest part of the day (between 1–4 PM), and seek out air-conditioned spaces frequently. It takes some adjustment, but these strategies will help you cope with the heat and humidity."
+  },
+  {
+    "input": "What should I know about handling the climate in Mérida?",
+    "output": "Mérida's weather can be extremely challenging, with intense heat reaching its peak in **May**. Essential survival strategies include consistent **hydration**, wearing **breathable, light fabrics**, and applying **sunscreen** diligently. Structure your day to include indoor activities during the most intense heat (typically 1–4 PM), and make good use of air-conditioned locations throughout the city."
+  },
+  {
+    "input": "Where do students usually hang out in Mérida?",
+    "output": "Students usually go out to **clubs and bars** to hang out, especially on weekends.\n\n Do you want some recommendations?."
+  },
+  {
+    "input": "What are popular student hangout spots in Mérida?",
+    "output": "Most students tend to gather at various **clubs and bars** around the city, particularly on weekends.\n\nWould you like me to suggest some specific places?"
+  },
+  {
+    "input": "Where do college students socialize in Mérida?",
+    "output": "The social scene for students in Mérida primarily centers around the city's **bars and clubs**, which become especially lively during weekends.\n\nWould you like specific recommendations for popular student venues?"
+  },
+  {
+    "input": "Where can I find the closest public hospital or clinic in Mérida?",
+    "output": "If you need a public hospital, things can be complicated — service is often slow and overcrowded, so it's not ideal in an emergency. For private healthcare, **El Faro del Mayab** and **Star Médica** are two of the best options in the city. They're modern, reliable, and much faster in case you need urgent care."
+  },
+  {
+    "input": "What are my options for hospitals or clinics in Mérida?",
+    "output": "Public hospitals tend to be problematic — they're typically overcrowded with long wait times, which isn't ideal for emergencies. For better care, private hospitals like **El Faro del Mayab** and **Star Médica** are excellent choices. They offer modern facilities, reliable service, and much quicker attention when you need urgent medical care."
+  },
+  {
+    "input": "If I need medical care in Mérida, where should I go?",
+    "output": "For quality medical attention, private facilities are recommended over public hospitals, which often struggle with overcrowding and lengthy wait times. **El Faro del Mayab** and **Star Médica** are the premier private healthcare options in the city, offering contemporary facilities, dependable service, and significantly faster care — particularly important in emergency situations."
+  },
+  {
+    "input": "Where can I get a quick doctor consultation in Mérida?",
+    "output": "You can visit pharmacies like **Dr. Simi**, **Farmacias del Ahorro**, or **Farmacias Yza** — they usually have in-house doctors available for quick consultations at very low cost. It's a fast and affordable option if you just need basic medical attention or a prescription."
+  },
+  {
+    "input": "Where can I see a doctor quickly and affordably in Mérida?",
+    "output": "Pharmacy chains like **Dr. Simi**, **Farmacias del Ahorro**, and **Farmacias Yza** typically have doctors on-site who can provide consultations at minimal cost. This is a quick and budget-friendly solution for basic medical needs or getting prescriptions."
+  },
+  {
+    "input": "I need to see a doctor for something minor in Mérida. What's my best option?",
+    "output": "For minor medical concerns, pharmacy-based clinics at **Dr. Simi**, **Farmacias del Ahorro**, or **Farmacias Yza** offer the most efficient solution. These locations typically have physicians available for walk-in consultations at very reasonable rates, making them ideal for basic healthcare needs or obtaining prescriptions without the hassle of hospital visits."
+  },
+  {
+    "input": "Where can I find a 24/7 pharmacy in Mérida?",
+    "output": "Pharmacies like **Dr. Simi**, **Farmacias del Ahorro**, and **Farmacias Yza** usually have branches that stay open 24/7. They're reliable options if you need medicine late at night."
+  },
+  {
+    "input": "Are there all-night pharmacies in Mérida?",
+    "output": "Yes, several pharmacy chains including **Dr. Simi**, **Farmacias del Ahorro**, and **Farmacias Yza** have locations that operate 24/7. These are dependable options when you need medications outside of normal business hours."
+  },
+  {
+    "input": "Where can I get medicine in the middle of the night in Mérida?",
+    "output": "You'll find 24-hour service at select branches of **Dr. Simi**, **Farmacias del Ahorro**, and **Farmacias Yza**. These round-the-clock pharmacies ensure you can access necessary medications at any hour, providing peace of mind for unexpected nighttime medical needs."
+  },
+  {
+    "input": "Is Mercado Libre worth using in Mérida?",
+    "output": "Yes — **Mercado Libre** is a really solid app. It's reliable, has a wide range of products, and shipping is usually fast. A lot of locals use it for everything from electronics to everyday essentials."
+  },
+  {
+    "input": "Should I use Mercado Libre while in Mérida?",
+    "output": "Absolutely — **Mercado Libre** is an excellent platform here. It's dependable with a diverse product selection and typically quick delivery times. It's widely used by local residents for purchasing everything from tech devices to daily necessities."
+  },
+  {
+    "input": "How reliable is Mercado Libre for shopping in Mérida?",
+    "output": "**Mercado Libre** is highly reliable and widely trusted in Mérida. The platform offers an extensive product selection with generally prompt delivery services. It's become a go-to shopping resource for many locals, who use it regularly for purchasing everything from technology and electronics to everyday household items."
+  },
+  {
+    "input": "Is it safe to eat from street stalls in Mérida?",
+    "output": "Sometimes — it really depends on the place. Street food in Mérida can be delicious, but you need to be careful where you eat to avoid getting sick. Go for stalls that look clean, have a lot of customers, and where the food is being cooked fresh. Trust your gut — literally."
+  },
+  {
+    "input": "Can I trust street food vendors in Mérida?",
+    "output": "It varies by vendor — while street food in Mérida can be fantastic, you should be selective to avoid stomach issues. Choose stalls that maintain cleanliness, attract many customers (a good sign), and prepare food freshly before your eyes. Listen to your instincts when deciding where to eat."
+  },
+  {
+    "input": "Is street food in Mérida safe to eat?",
+    "output": "It can be, but requires careful selection. While Mérida offers some excellent street food, quality and safety vary significantly between vendors. Look for clean stalls with high customer traffic and visible food preparation. Busy stands where you can see food being cooked fresh are generally safer choices. Always use your judgment and be cautious if something doesn't seem right."
+  },
+  {
+    "input": "Where can I get really good cochinita or lechón in Mérida?",
+    "output": "**La Roka** is a really great option — the cochinita and lechón there are super flavorful and it's a solid spot if you want to try traditional Yucatecan flavors done right."
+  },
+  {
+    "input": "What's the best place for authentic cochinita or lechón in Mérida?",
+    "output": "**La Roka** stands out as an excellent choice — their cochinita and lechón are exceptionally flavorful and authentic. It's definitely the place to go if you want to experience traditional Yucatecan specialties prepared properly."
+  },
+  {
+    "input": "I want to try traditional Yucatecan pork dishes in Mérida. Where should I go?",
+    "output": "Head to **La Roka** for the most authentic experience — they're known for preparing exceptional cochinita and lechón with rich, traditional Yucatecan flavors. Their preparation methods and quality ingredients make it the perfect spot to truly appreciate these regional pork specialties."
+  },
+  {
+    "input": "What's the best hangover food in Mérida?",
+    "output": "A really popular option for people leaving clubs or bars is **La Gibba**. It's open late, serves super satisfying food, and hits the spot after a long night out."
+  },
+  {
+    "input": "Where should I eat after a night of drinking in Mérida?",
+    "output": "**La Gibba** is the go-to place for post-party food. It stays open late, offers satisfying dishes that are perfect for soaking up alcohol, and really hits the spot when you're wrapping up a night of drinking."
+  },
+  {
+    "input": "What's good to eat in Mérida when you're hungover?",
+    "output": "When you're feeling rough after a night out, **La Gibba** is where most locals head. Their late operating hours make it accessible after leaving bars or clubs, and their hearty, flavorful food is exactly what you need to help recover from a night of drinking."
+  }
+]
