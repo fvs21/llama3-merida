@@ -12,6 +12,10 @@
     "output": "La Gibba is definitely worth trying for their excellent Arabic-style tacos when you're hungry late at night. El Ñero is also recommended for good quality food at reasonable prices. If you're in the mood for traditional Mexican tacos, Mixe offers great value and flavor.\n\nQuestions:\n1. Are you near downtown or somewhere else in the city?\n2. Are you craving tacos or something else?"
   },
   {
+    "input": "Looking for midnight snacks in Mérida - suggestions?",
+    "output": "For late-night cravings in Mérida, I'd recommend La Gibba for their fantastic Arabic-style tacos. If that's not what you're looking for, El Ñero offers excellent food at budget-friendly prices. And don't overlook Mixe for traditional Mexican tacos that are both inexpensive and delicious.\n\nQuestions:\n1. Are you near downtown or somewhere else in the city?\n2. Are you craving tacos or something else?"
+  },
+  {
     "input": "What's some good food from Yucatán?",
     "output": "You should definitely try cochinita pibil — it's one of the most iconic dishes in Yucatán, and you can have it in tacos or tortas. Panuchos and salbutes are also must-tries. They're crispy, full of flavor, and super popular with both locals and visitors."
   },
@@ -22,6 +26,58 @@
   {
     "input": "What local specialties should I eat while visiting Yucatán?",
     "output": "Make sure to taste cochinita pibil during your visit — this signature dish represents Yucatecan cuisine perfectly and is available in both tacos and tortas. Also try the panuchos and salbutes, which are delightfully crispy with rich flavors that have made them favorites among locals and travelers."
+  },
+  {
+    "input": "Could you recommend some authentic Yucatecan cuisine to sample?",
+    "output": "When exploring Yucatecan gastronomy, cochinita pibil should be at the top of your list - this emblematic dish can be enjoyed in either taco or torta form. The regional panuchos and salbutes are equally important to try, offering crispy textures and distinctive flavors that are cherished throughout the peninsula."
+  },
+  {
+    "input": "Where can I get a good breakfast in Mérida?",
+    "output": "La Libertad is a great place to start your day. They serve generous portions, the food is tasty, and the prices are really reasonable. It's a local favorite for a reason!"
+  },
+  {
+    "input": "Any recommendations for breakfast places in Mérida?",
+    "output": "I'd definitely recommend checking out La Libertad. Their portions are generous, the food is delicious, and it's very affordable. There's a reason why it's so popular with the locals!"
+  },
+  {
+    "input": "Where do locals eat breakfast in Mérida?",
+    "output": "La Libertad is a popular local breakfast spot in Mérida. You'll get hearty portions of tasty food at very reasonable prices, which is why it's such a favorite among residents."
+  },
+  {
+    "input": "What's a good morning eatery in Mérida with fair prices?",
+    "output": "La Libertad stands out as an excellent breakfast destination in Mérida. The establishment is known for its abundant servings, flavorful dishes, and budget-friendly prices - attributes that have earned it a loyal following among local diners."
+  },
+  {
+    "input": "Where can I get good Yucatecan food in Mérida?",
+    "output": "La Chaya Maya is hands down one of the best places for authentic Yucatecan cuisine in Mérida. Another excellent choice is Manjar Blanco. Both serve really high-quality local dishes, and they're super popular with both tourists and locals."
+  },
+  {
+    "input": "What are the best restaurants for traditional Yucatecan cuisine in Mérida?",
+    "output": "For authentic Yucatecan food, La Chaya Maya is definitely one of the top options in Mérida. Manjar Blanco is another excellent restaurant to try. Both places offer high-quality local specialties and are very popular with visitors and residents alike."
+  },
+  {
+    "input": "Which restaurants serve authentic Yucatecan dishes in Mérida?",
+    "output": "La Chaya Maya stands out as one of the finest establishments for genuine Yucatecan cooking in Mérida. Another excellent option is Manjar Blanco. Both restaurants provide high-quality regional specialties and attract a mix of tourists and locals seeking authentic flavors."
+  },
+  {
+    "input": "I want to experience real Yucatecan flavors in Mérida - where should I go?",
+    "output": "For an authentic taste of Yucatán in Mérida, make your way to La Chaya Maya, widely considered among the finest purveyors of regional cuisine. Alternatively, Manjar Blanco delivers equally impressive Yucatecan specialties. Both establishments maintain high standards and draw appreciative crowds of visitors and residents."
+  },
+  {
+    "input": "What's the best place for authentic cochinita or lechón in Mérida?",
+    "output": "**La Roka** stands out as an excellent choice — their cochinita and lechón are exceptionally flavorful and authentic. It's definitely the place to go if you want to experience traditional Yucatecan specialties prepared properly."
+  },
+  {
+    "input": "I want to try traditional Yucatecan pork dishes in Mérida. Where should I go?",
+    "output": "Head to **La Roka** for the most authentic experience — they're known for preparing exceptional cochinita and lechón with rich, traditional Yucatecan flavors. Their preparation methods and quality ingredients make it the perfect spot to truly appreciate these regional pork specialties."
+  },
+  {
+    "input": "Where do they make the best cochinita pibil and lechón in Mérida?",
+    "output": "**La Roka** is renowned for their outstanding cochinita and lechón, prepared with authentic Yucatecan techniques and flavors. If you're looking for these traditional pork dishes made properly and with attention to detail, this is definitely your best option in Mérida."
+  },
+  {
+    "input": "I'm searching for exceptional Yucatecan pork specialties in Mérida - any suggestions?",
+    "output": "For truly remarkable cochinita and lechón in Mérida, **La Roka** deserves your attention. Their commitment to traditional preparation methods and authentic Yucatecan flavors makes this establishment the premier destination for experiencing these iconic pork dishes at their finest."
   },
   {
     "input": "Where can I get a good breakfast in Mérida?",
@@ -396,6 +452,10 @@
     "output": "Head to **La Roka** for the most authentic experience — they're known for preparing exceptional cochinita and lechón with rich, traditional Yucatecan flavors. Their preparation methods and quality ingredients make it the perfect spot to truly appreciate these regional pork specialties."
   },
   {
+    "input": "I'm searching for exceptional Yucatecan pork specialties in Mérida - any suggestions?",
+    "output": "For truly remarkable cochinita and lechón in Mérida, **La Roka** deserves your attention. Their commitment to traditional preparation methods and authentic Yucatecan flavors makes this establishment the premier destination for experiencing these iconic pork dishes at their finest."
+  },
+  {
     "input": "What's the best hangover food in Mérida?",
     "output": "A really popular option for people leaving clubs or bars is **La Gibba**. It's open late, serves super satisfying food, and hits the spot after a long night out."
   },
@@ -406,5 +466,745 @@
   {
     "input": "What's good to eat in Mérida when you're hungover?",
     "output": "When you're feeling rough after a night out, **La Gibba** is where most locals head. Their late operating hours make it accessible after leaving bars or clubs, and their hearty, flavorful food is exactly what you need to help recover from a night of drinking."
+  },
+  {
+    "input": "Where do Mérida locals go for recovery food after partying?",
+    "output": "After a night of celebration, **La Gibba** is the establishment that Mérida residents trust for post-drinking nourishment. Their extended hours accommodate late-night revelers, and their hearty, satisfying menu options provide exactly what's needed to bounce back from an evening of indulgence."
+  },
+  {
+    "input": "Where can I eat a good American-style burger in Mérida?",
+    "output": "You should check out Hey Joe — they’re known for their amazing burgers and American-style food."
+  },
+  {
+    "input": "I'm craving a juicy hamburger. Any place you'd recommend in Mérida?",
+    "output": "Definitely try Hey Joe. Their burgers are some of the best in the city."
+  },
+  {
+    "input": "Any spots for chili or American diner food in Mérida?",
+    "output": "Hey Joe is an awesome place for chili, burgers, and classic American dishes."
+  },
+  {
+    "input": "What’s a good restaurant for burgers and fries in Mérida?",
+    "output": "Hey Joe is the place to go — great fries and even better burgers."
+  },
+  {
+    "input": "Is there an American restaurant?",
+    "output": "Yes! Hey Joe serves chili, burgers, wings, and lots of American comfort food."
+  },
+  {
+    "input": "I’m in the mood for American food. Any suggestions?",
+    "output": "Head to Hey Joe — it’s popular for its chili, burgers, and cool vibe."
+  },
+  {
+    "input": "Where can I get a good chili dish in Mérida?",
+    "output": "Hey Joe makes a mean chili. It's one of their specialties."
+  },
+  {
+    "input": "I'm looking for a burger place that's not fast food. Ideas?",
+    "output": "Try Hey Joe. They serve gourmet-style burgers with a cool atmosphere."
+  },
+  {
+    "input": "Any cool burger joints near downtown Mérida?",
+    "output": "Hey Joe is a solid pick — tasty burgers and a nice place to hang out."
+  },
+  {
+    "input": "Late night burger cravings. Where should I go?",
+    "output": "Hey Joe stays open late and has great options for burgers and American food."
+  },
+  {
+    "input": "Where can I eat Arabic tacos in Mérida?",
+    "output": "La Gibba is the best-known place in Mérida for Arabic tacos."
+  },
+  {
+    "input": "Craving tacos árabes. Any place you'd recommend?",
+    "output": "You should try La Gibba — it’s a local favorite for tacos árabes."
+  },
+  {
+    "input": "Any good spots for Arabic-style tacos in the city?",
+    "output": "Yes! La Gibba specializes in Arabic-style tacos and they're delicious."
+  },
+  {
+    "input": "I’m in the mood for tacos árabes tonight. Suggestions?",
+    "output": "Definitely check out La Gibba. Their Arabic tacos are amazing, especially late at night."
+  },
+  {
+    "input": "Where can I get pita-style Arabic tacos in Mérida?",
+    "output": "La Gibba is your best bet for pita-based Arabic tacos with great flavor."
+  },
+  {
+    "input": "Is there a place that does authentic tacos árabes?",
+    "output": "Yes, La Gibba is known for making some of the best authentic tacos árabes in Mérida."
+  },
+  {
+    "input": "Looking for Arabic tacos near downtown Mérida. Any ideas?",
+    "output": "La Gibba is close to downtown and a go-to spot for tacos árabes."
+  },
+  {
+    "input": "Where do locals go for tacos árabes in Mérida?",
+    "output": "La Gibba is super popular among locals for Arabic tacos — always a good choice."
+  },
+  {
+    "input": "Late-night Arabic tacos. Where to go?",
+    "output": "La Gibba stays open late and serves some of the best tacos árabes around."
+  },
+  {
+    "input": "I want something different than cochinita or pastor. Maybe Arabic tacos?",
+    "output": "Then you have to visit La Gibba — they're the top spot for tacos árabes in Mérida."
+  },
+  {
+    "input": "Where can I eat cochinita pibil in Mérida?",
+    "output": "La Roka is one of the best places in Mérida for cochinita pibil — super flavorful and tender."
+  },
+  {
+    "input": "Craving cochinita. Any recommendations?",
+    "output": "Definitely go to La Roka. Their cochinita pibil is a must-try if you're in the city."
+  },
+  {
+    "input": "What's a good spot for traditional cochinita pibil?",
+    "output": "La Roka is known for its traditional cochinita pibil — a local favorite."
+  },
+  {
+    "input": "Looking for the best cochinita tacos in Mérida. Suggestions?",
+    "output": "You should check out La Roka. Their tacos de cochinita are amazing."
+  },
+  {
+    "input": "Any authentic places for cochinita pibil?",
+    "output": "La Roka serves authentic cochinita pibil and it's one of the most recommended places."
+  },
+  {
+    "input": "Where do locals go for cochinita on the weekend?",
+    "output": "La Roka is a popular weekend spot for delicious cochinita pibil."
+  },
+  {
+    "input": "Is there a place in Mérida with cochinita in tortas or tacos?",
+    "output": "Yes, La Roka offers both tortas and tacos de cochinita. Super tasty."
+  },
+  {
+    "input": "Best spot for slow-roasted pork tacos?",
+    "output": "Try La Roka — their slow-roasted cochinita pibil is full of flavor."
+  },
+  {
+    "input": "Where can I try traditional Yucatecan cochinita?",
+    "output": "La Roka is a great place to try traditional Yucatecan cochinita pibil."
+  },
+  {
+    "input": "Any cochinita pibil recommendations for first-timers?",
+    "output": "Start with La Roka — it’s a great introduction to cochinita pibil in Mérida."
+  },
+  {
+    "input": "Where can I try panuchos or salbutes in Mérida?",
+    "output": "La Chaya Maya is one of the best spots for panuchos and salbutes — super traditional and delicious."
+  },
+  {
+    "input": "Any good place for poc chuc in Mérida?",
+    "output": "Try La Chaya Maya. Their poc chuc is one of their specialties and it's really good."
+  },
+  {
+    "input": "Looking for traditional Yucatecan food like salbutes?",
+    "output": "You should visit La Chaya Maya — it’s famous for traditional dishes like salbutes, panuchos, and more."
+  },
+  {
+    "input": "Where can I eat authentic panuchos in Mérida?",
+    "output": "La Chaya Maya is a great place for authentic panuchos. Very flavorful and handmade."
+  },
+  {
+    "input": "Any restaurants that serve poc chuc and other Yucatecan dishes?",
+    "output": "Yes, La Chaya Maya serves poc chuc, salbutes, panuchos, and more. A great intro to Yucatecan food."
+  },
+  {
+    "input": "Best spot for salbutes in downtown Mérida?",
+    "output": "La Chaya Maya is centrally located and serves excellent salbutes with all the right toppings."
+  },
+  {
+    "input": "Where can I try Yucatecan dishes in one place?",
+    "output": "Go to La Chaya Maya — you can get poc chuc, panuchos, salbutes, and more in one menu."
+  },
+  {
+    "input": "Craving panuchos and a cold drink. Any suggestions?",
+    "output": "La Chaya Maya is perfect for that. Their panuchos are top-notch and the vibe is great."
+  },
+  {
+    "input": "Where do tourists go to try poc chuc in Mérida?",
+    "output": "La Chaya Maya is a popular tourist stop for Yucatecan classics like poc chuc and salbutes."
+  },
+  {
+    "input": "Where can I try panuchos or salbutes in Mérida?",
+    "output": "La Chaya Maya is one of the best spots for panuchos and salbutes — super traditional and delicious."
+  },
+  {
+    "input": "Any good place for poc chuc in Mérida?",
+    "output": "Try La Chaya Maya. Their poc chuc is one of their specialties and it's really good."
+  },
+  {
+    "input": "Looking for traditional Yucatecan food like salbutes?",
+    "output": "You should visit La Chaya Maya — it’s famous for traditional dishes like salbutes, panuchos, and more."
+  },
+  {
+    "input": "Where can I eat authentic panuchos in Mérida?",
+    "output": "La Chaya Maya is a great place for authentic panuchos. Very flavorful and handmade."
+  },
+  {
+    "input": "Any restaurants that serve poc chuc and other Yucatecan dishes?",
+    "output": "Yes, La Chaya Maya serves poc chuc, salbutes, panuchos, and more. A great intro to Yucatecan food."
+  },
+  {
+    "input": "Best spot for salbutes in downtown Mérida?",
+    "output": "La Chaya Maya is centrally located and serves excellent salbutes with all the right toppings."
+  },
+  {
+    "input": "Where can I try Yucatecan dishes in one place?",
+    "output": "Go to La Chaya Maya — you can get poc chuc, panuchos, salbutes, and more in one menu."
+  },
+  {
+    "input": "Craving panuchos and a cold drink. Any suggestions?",
+    "output": "La Chaya Maya is perfect for that. Their panuchos are top-notch and the vibe is great."
+  },
+  {
+    "input": "Where do tourists go to try poc chuc in Mérida?",
+    "output": "La Chaya Maya is a popular tourist stop for Yucatecan classics like poc chuc and salbutes."
+  },
+  {
+    "input": "Where can I get really good cookies in Mérida?",
+    "output": "Galletas Dr. is super popular for their stuffed cookies — rich and homemade."
+  },
+  {
+    "input": "Craving a cinnamon roll. Any suggestions?",
+    "output": "Cimmonis is known for their soft and gooey cinnamon rolls. A must-try!"
+  },
+  {
+    "input": "Any dessert places in Mérida worth trying?",
+    "output": "You should check out Cimmonis for cinnamon rolls or Galletas Dr. for amazing cookies."
+  },
+  {
+    "input": "Looking for a sweet snack in the afternoon?",
+    "output": "Galletas Dr. and Cimmonis both offer sweet treats perfect for a midday craving."
+  },
+  {
+    "input": "Where can I find viral cookies in Mérida?",
+    "output": "Galletas Dr. is all over social media for their stuffed cookies. Definitely worth a try."
+  },
+  {
+    "input": "I want something warm and sweet. Any recommendations?",
+    "output": "Go to Cimmonis — their cinnamon rolls are freshly baked and full of flavor."
+  },
+  {
+    "input": "What's a good spot to take a date for dessert?",
+    "output": "Cimmonis has a cozy vibe and great cinnamon rolls. Galletas Dr. is also fun to share."
+  },
+  {
+    "input": "Best cookies in Mérida?",
+    "output": "Many people love Galletas Dr. for their thick, gooey cookies with tons of filling."
+  },
+  {
+    "input": "Any dessert places near downtown Mérida?",
+    "output": "Both Cimmonis and Galletas Dr. have locations close to central areas and are easy to reach."
+  },
+  {
+    "input": "Where can I get a good dessert to-go?",
+    "output": "Grab some cookies from Galletas Dr. or a cinnamon roll from Cimmonis — perfect to go!"
+  },
+  {
+    "input": "Late-night dessert ideas?",
+    "output": "If you're out late, Cimmonis sometimes stays open and is great for cinnamon rolls."
+  },
+  {
+    "input": "Sweet treat recommendations in Mérida?",
+    "output": "Try Cimmonis for cinnamon rolls and Galletas Dr. for big stuffed cookies."
+  },
+  {
+    "input": "What’s a good place to get soft cookies?",
+    "output": "Galletas Dr. makes soft, chewy cookies with fillings like Nutella, Kinder, and more."
+  },
+  {
+    "input": "Where can I get cinnamon rolls with frosting?",
+    "output": "Cimmonis is known for their frosted cinnamon rolls. Sweet and satisfying!"
+  },
+  {
+    "input": "Dessert options other than ice cream?",
+    "output": "Galletas Dr. and Cimmonis are great non-ice cream dessert spots in Mérida."
+  },
+  {
+    "input": "Any unique dessert spots in Mérida?",
+    "output": "Galletas Dr. stands out for their viral-style cookies and Cimmonis for their fluffy rolls."
+  },
+  {
+    "input": "Looking for baked sweets?",
+    "output": "Galletas Dr. has amazing cookies and Cimmonis is all about freshly baked cinnamon rolls."
+  },
+  {
+    "input": "Where can I buy desserts to take to a party?",
+    "output": "A box from Galletas Dr. or a pack of Cimmonis rolls would be perfect for sharing."
+  },
+  {
+    "input": "What’s a good sweet treat after lunch?",
+    "output": "A cookie from Galletas Dr. or a mini roll from Cimmonis hits the spot."
+  },
+  {
+    "input": "Anything like Cinnabon in Mérida?",
+    "output": "Cimmonis is Mérida’s version — big cinnamon rolls with lots of icing."
+  },
+  {
+    "input": "What’s the most popular club in Mérida right now?",
+    "output": "Feder is currently the most popular club in Mérida. Always packed and full of reggaetón."
+  },
+  {
+    "input": "Any big party clubs in Mérida?",
+    "output": "Feder and Classico are both great for partying. Feder is especially popular with the younger crowd."
+  },
+  {
+    "input": "Where do most people go clubbing on weekends?",
+    "output": "Feder is the go-to spot right now. Classico is also a fun option."
+  },
+  {
+    "input": "Where can I dance to reggaetón all night?",
+    "output": "Feder plays a lot of reggaetón and is packed on weekends. Classico is another good choice."
+  },
+  {
+    "input": "Any clubs that move to the beach in summer?",
+    "output": "Yes! Feder opens a beach version in Progreso during summer. It’s a beach party experience."
+  },
+  {
+    "input": "What’s the best club to go to in Progreso?",
+    "output": "In summer, Feder opens in Progreso and becomes the main party spot by the beach."
+  },
+  {
+    "input": "Looking for a lively club in Mérida?",
+    "output": "Check out Feder — it’s one of the most active and popular clubs right now."
+  },
+  {
+    "input": "Where can I find a high-energy nightclub?",
+    "output": "Feder is known for its energy and massive parties. Classico also keeps the dance floor busy."
+  },
+  {
+    "input": "What clubs are trending in Mérida?",
+    "output": "Feder is trending the most. Classico is also a consistent favorite."
+  },
+  {
+    "input": "Where can I party by the beach?",
+    "output": "Feder has a summer edition in Progreso. Same vibe, but with ocean breeze!"
+  },
+  {
+    "input": "Any clubs that students love?",
+    "output": "Feder is very popular among students. Great music and full house almost every weekend."
+  },
+  {
+    "input": "Which nightclub has the wildest parties?",
+    "output": "Feder is known for throwing huge parties. Classico is a bit more chill, but still fun."
+  },
+  {
+    "input": "Good clubs for birthdays or group parties?",
+    "output": "Feder is a great choice for big celebrations. Book a table in advance."
+  },
+  {
+    "input": "Where can I go if I want a classic clubbing experience?",
+    "output": "Classico offers that classic nightclub vibe with great music and dancing."
+  },
+  {
+    "input": "Is there a summer club scene in Yucatán?",
+    "output": "Yes — during summer, Feder sets up in Progreso for beach parties."
+  },
+  {
+    "input": "Where do people from Mérida party in the summer?",
+    "output": "Many head to Feder’s summer club in Progreso. It’s right by the beach."
+  },
+  {
+    "input": "Looking for a club with a big dance floor.",
+    "output": "Feder has one of the largest and busiest dance floors in Mérida."
+  },
+  {
+    "input": "Which is better, Feder or Classico?",
+    "output": "Feder is more popular right now, especially with younger crowds. Classico is a solid alternative."
+  },
+  {
+    "input": "Any beach parties near Mérida?",
+    "output": "During summer, Feder opens a club in Progreso with a full beach party setup."
+  },
+  {
+    "input": "Where should I go for nightlife in Progreso?",
+    "output": "Feder’s summer location in Progreso is the main nightlife spot by the beach."
+  },
+  {
+    "input": "Where can I get a good cocktail in Mérida?",
+    "output": "If you're into crafted cocktails, check out Flamel. Their drinks are creative and well-made."
+  },
+  {
+    "input": "Any chill bar to hang out with friends?",
+    "output": "Tigre Blanco is a popular choice for a relaxed night out with friends."
+  },
+  {
+    "input": "Best bars in Mérida with cool vibes?",
+    "output": "Flamel has great ambiance and creative drinks. Tigre Blanco is also a fun and casual option."
+  },
+  {
+    "input": "Looking for a stylish place to grab a drink.",
+    "output": "Try Flamel. It's known for its elegant atmosphere and signature cocktails."
+  },
+  {
+    "input": "Any good bars for a Friday night in Mérida?",
+    "output": "Tigre Blanco gets pretty lively on Fridays and has a cool crowd."
+  },
+  {
+    "input": "I want something casual but not boring.",
+    "output": "Tigre Blanco hits that sweet spot — laid-back but still fun."
+  },
+  {
+    "input": "Date night spot with good drinks?",
+    "output": "Flamel is a great date night spot. It’s cozy and their mixology is excellent."
+  },
+  {
+    "input": "Best cocktail bar in Mérida?",
+    "output": "Flamel is often considered one of the best for mixology and unique cocktails."
+  },
+  {
+    "input": "Where do young locals hang out at night?",
+    "output": "Tigre Blanco is very popular among young locals. Good music, good drinks, and fun crowd."
+  },
+  {
+    "input": "Any places with a more elegant vibe?",
+    "output": "Flamel is known for its classy atmosphere and signature drinks."
+  },
+  {
+    "input": "Looking for a cozy bar to relax?",
+    "output": "Tigre Blanco has a casual and comfortable vibe — perfect for unwinding."
+  },
+  {
+    "input": "Where should I go for something more sophisticated?",
+    "output": "Flamel is perfect if you're looking for a refined cocktail experience."
+  },
+  {
+    "input": "Any bars that serve creative drinks?",
+    "output": "Flamel specializes in signature and creative cocktails. Definitely worth a visit."
+  },
+  {
+    "input": "Where to go in Mérida for a more relaxed night out?",
+    "output": "Tigre Blanco is great for that — good music, great drinks, and a chill atmosphere."
+  },
+  {
+    "input": "Bar with mixologist-level cocktails?",
+    "output": "Flamel has some of the best mixology in Mérida."
+  },
+  {
+    "input": "Any cool spots for a small group to hang out?",
+    "output": "Tigre Blanco is perfect for groups. Not too loud, and the vibes are great."
+  },
+  {
+    "input": "Best hidden gem bar in Mérida?",
+    "output": "Flamel feels like a hidden gem with its ambiance and drink selection."
+  },
+  {
+    "input": "What bar do locals recommend for a fun time?",
+    "output": "Tigre Blanco is definitely a local favorite."
+  },
+  {
+    "input": "Is there a bar that feels like a speakeasy?",
+    "output": "Flamel gives off that speakeasy vibe with its mood lighting and unique drinks."
+  },
+  {
+    "input": "Chill bar with good music in Mérida?",
+    "output": "Tigre Blanco is a great choice — good drinks and a fun soundtrack."
+  },
+  {
+    "input": "Where can I get a nice breakfast in Mérida?",
+    "output": "La Libertad is a great choice for breakfast — delicious food, cozy atmosphere, and fair prices."
+  },
+  {
+    "input": "Looking for a breakfast spot that’s not too expensive but still good.",
+    "output": "Try La Libertad. It offers quality breakfasts at prices that make sense for what you get."
+  },
+  {
+    "input": "Any breakfast places with good food and relaxed vibes?",
+    "output": "La Libertad has great breakfast options in a calm, welcoming setting. Not cheap, but totally worth it."
+  },
+  {
+    "input": "Where do people go for a proper breakfast in Mérida?",
+    "output": "Many people love La Libertad for its solid breakfast menu and fair prices."
+  },
+  {
+    "input": "A brunch place that’s not overpriced?",
+    "output": "La Libertad offers generous portions and good flavors at a reasonable price."
+  },
+  {
+    "input": "Where can I get a good weekend breakfast?",
+    "output": "La Libertad is perfect for weekend mornings — great breakfast dishes and a chill atmosphere."
+  },
+  {
+    "input": "Best spots to have breakfast with friends in Mérida?",
+    "output": "La Libertad is a go-to for many locals. Tasty dishes and a setting that makes you want to stay and talk."
+  },
+  {
+    "input": "Any underrated breakfast places in Mérida?",
+    "output": "La Libertad is a great find — not too crowded, solid breakfast options, and good value."
+  },
+  {
+    "input": "Where can I get a good breakfast without breaking the bank?",
+    "output": "La Libertad isn't the cheapest, but it offers quality food and experience for the price."
+  },
+  {
+    "input": "Chill breakfast spots that feel like a treat?",
+    "output": "La Libertad has the perfect balance of great food, relaxed vibes, and fair pricing."
+  },
+  {
+    "input": "Where can I eat good Argentine food in Mérida?",
+    "output": "La Rueda is a great place for authentic Argentine cuisine, especially their grilled meats and empanadas."
+  },
+  {
+    "input": "Any restaurant in Mérida that specializes in Argentine dishes?",
+    "output": "La Rueda is known for its delicious Argentine steaks and empanadas, a must-try for meat lovers."
+  },
+  {
+    "input": "Looking for good empanadas in Mérida?",
+    "output": "La Rueda makes some of the best empanadas in the city — crispy and full of flavor."
+  },
+  {
+    "input": "Where can I get a traditional Argentine steak?",
+    "output": "La Rueda is the spot for a great Argentine steak. Perfectly grilled and full of flavor."
+  },
+  {
+    "input": "I want a hearty meal with good meat options. Any recommendations?",
+    "output": "La Rueda has excellent Argentine meat dishes, from steaks to empanadas — hearty and satisfying."
+  },
+  {
+    "input": "Where do locals go for grilled meat in Mérida?",
+    "output": "La Rueda is a local favorite for Argentine-style grilled meat — always a crowd-pleaser."
+  },
+  {
+    "input": "Best place for Argentine food in Mérida?",
+    "output": "La Rueda is one of the best Argentine restaurants in Mérida, known for its steaks and traditional dishes."
+  },
+  {
+    "input": "Any restaurant with a good selection of grilled meats?",
+    "output": "La Rueda specializes in Argentine grilled meats, including steaks and sausages, all cooked to perfection."
+  },
+  {
+    "input": "Where can I try authentic Argentine food in Mérida?",
+    "output": "La Rueda is your go-to place for authentic Argentine cuisine, offering everything from empanadas to top-quality steaks."
+  },
+  {
+    "input": "Where can I get a filling lunch with great meat dishes?",
+    "output": "La Rueda serves up hearty Argentine meals that are perfect for a satisfying lunch — great meat and great value."
+  },
+  {
+    "input": "Where can I eat Italian food in Mérida?",
+    "output": "Barrio Napoli is a great place for pasta and pizza — cozy vibe and great flavors."
+  },
+  {
+    "input": "Any good spots for pizza in Mérida?",
+    "output": "Try Barrio Napoli. Their pizzas are delicious and made with fresh ingredients."
+  },
+  {
+    "input": "Looking for a nice Italian restaurant?",
+    "output": "Barrio Napoli is a solid choice — great pasta dishes and a chill ambiance."
+  },
+  {
+    "input": "Where can I eat good pasta that’s not super expensive?",
+    "output": "Barrio Napoli offers quality pasta at fair prices. A nice spot for a relaxed Italian meal."
+  },
+  {
+    "input": "Any cozy restaurants with Italian food?",
+    "output": "Barrio Napoli has a warm vibe and great Italian dishes, especially their lasagna and pizzas."
+  },
+  {
+    "input": "Best place in Mérida for a casual Italian dinner?",
+    "output": "Barrio Napoli is perfect for that — good wine, pizza, and pasta in a laid-back setting."
+  },
+  {
+    "input": "I’m craving pasta. Any suggestions?",
+    "output": "Go to Barrio Napoli — their pasta is homemade and super tasty."
+  },
+  {
+    "input": "Where do people eat pizza and pasta in Mérida?",
+    "output": "Barrio Napoli is one of the go-to Italian spots — friendly prices and solid dishes."
+  },
+  {
+    "input": "Looking for a restaurant with Italian vibes?",
+    "output": "Barrio Napoli gives you that classic Italian feel — food, music, and all."
+  },
+  {
+    "input": "Any underrated Italian food spots?",
+    "output": "Barrio Napoli might surprise you — quality Italian food in a chill, unpretentious place."
+  },
+  {
+    "input": "Where can I eat sushi in Mérida?",
+    "output": "Izakaya Sushi is one of the best places for sushi in Mérida — fresh rolls and great presentation."
+  },
+  {
+    "input": "Any good Japanese food spots in the city?",
+    "output": "Try Izakaya Sushi. Their menu has great Japanese options, from rolls to tempura."
+  },
+  {
+    "input": "I’m craving sushi, any recommendations?",
+    "output": "Definitely check out Izakaya Sushi — high-quality ingredients and creative rolls."
+  },
+  {
+    "input": "Where can I eat good sushi without going to a super fancy place?",
+    "output": "Izakaya Sushi hits the sweet spot — stylish but not overpriced, and the food is great."
+  },
+  {
+    "input": "Any modern Japanese restaurants in Mérida?",
+    "output": "Izakaya Sushi combines a modern vibe with solid Japanese dishes. Great for a casual dinner."
+  },
+  {
+    "input": "Where do people go for sushi that’s actually fresh?",
+    "output": "Locals love Izakaya Sushi for its fresh fish and well-balanced flavors."
+  },
+  {
+    "input": "Best place for sushi night?",
+    "output": "Izakaya Sushi is a go-to spot for sushi night — tasty rolls and a nice atmosphere."
+  },
+  {
+    "input": "Any Japanese spots that aren't super traditional but still good?",
+    "output": "Izakaya Sushi offers a modern take on Japanese food — creative rolls and a sleek setup."
+  },
+  {
+    "input": "Where can I eat tempura or Japanese appetizers?",
+    "output": "Izakaya Sushi has solid tempura and appetizers alongside their sushi menu."
+  },
+  {
+    "input": "Any restaurants that mix modern vibes with Japanese food?",
+    "output": "Izakaya Sushi is perfect for that — cool ambiance and legit Japanese flavors."
+  },
+  {
+    "input": "Where can I go to the movies in Mérida?",
+    "output": "You can check out Cinépolis Galerías or La Isla — both have comfy theaters and lots of movie options."
+  },
+  {
+    "input": "Any nice cinemas around the city?",
+    "output": "Cinépolis La Isla is a solid choice — modern, clean, and located in a beautiful shopping area."
+  },
+  {
+    "input": "I want to go watch a movie. Suggestions?",
+    "output": "Try Cinépolis City Center or Cinemex Gran Plaza. Both have lots of showtimes and snacks."
+  },
+  {
+    "input": "Are there any movie theaters with recliners?",
+    "output": "Yes! Cinépolis Galerías and La Isla both have VIP options with comfy recliners."
+  },
+  {
+    "input": "What’s the best place to watch a movie in Mérida?",
+    "output": "Cinépolis La Isla is very popular — modern screens and a great location by the lake."
+  },
+  {
+    "input": "Where do people usually go for movies?",
+    "output": "Cinépolis is the most popular chain here."
+  },
+  {
+    "input": "Where can I find English-language movies?",
+    "output": "Cinépolis often has subtitled or dubbed options — just look for 'Subtitulada' or 'Doblada'."
+  },
+  {
+    "input": "I want to go to the movies and then grab dinner nearby.",
+    "output": "Cinépolis City Center is perfect — you can catch a movie and then eat right there or nearby."
+  },
+  {
+    "input": "What are some reliable hospitals in Mérida?",
+    "output": "Star Médica and Hospital Faro are both modern and well-equipped — they’re two of the most trusted hospitals in the city."
+  },
+  {
+    "input": "Where can I go if I need private medical care?",
+    "output": "Star Médica is a popular private hospital with excellent facilities. Hospital Faro is another solid option with good services."
+  },
+  {
+    "input": "Any hospitals in the north of Mérida?",
+    "output": "Yes, both Star Médica and Hospital Faro are located in the northern part of the city and are easy to access."
+  },
+  {
+    "input": "I’m looking for a clean, modern hospital in Mérida.",
+    "output": "Check out Star Médica or Hospital Faro — they’re both known for being clean, professional, and up to date."
+  },
+  {
+    "input": "Where do people usually go for emergencies in Mérida?",
+    "output": "For private care, most people go to Star Médica or Hospital Faro. They both offer 24/7 emergency services."
+  },
+  {
+    "input": "I need to see a specialist. Where should I go?",
+    "output": "Star Médica and Hospital Faro have a variety of specialists and are known for their quality of care."
+  },
+  {
+    "input": "Which hospital is better: Star Médica or Hospital Faro?",
+    "output": "Both are excellent. Star Médica is slightly more established, while Faro is newer but also very reliable."
+  },
+  {
+    "input": "Any hospitals with English-speaking doctors?",
+    "output": "Star Médica often has English-speaking staff. Hospital Faro also receives international patients and may have bilingual services."
+  },
+  {
+    "input": "Where can I get surgery done in Mérida?",
+    "output": "Both Star Médica and Hospital Faro are equipped for surgeries and have good reputations for surgical care."
+  },
+  {
+    "input": "Are there hospitals near universities in Mérida?",
+    "output": "Star Médica is close to some universities in the north, and Hospital Faro is also easily reachable from campus areas."
+  },
+  {
+    "input": "Where can I get a quick doctor consultation in Mérida?",
+    "output": "You can visit pharmacies like Dr. Simi, Farmacias del Ahorro, or Farmacias Yza — they usually have in-house doctors available for quick consultations at very low cost. It's a fast and affordable option if you just need basic medical attention or a prescription."
+  },
+  {
+    "input": "Where can I see a doctor quickly and affordably in Mérida?",
+    "output": "Pharmacy chains like Dr. Simi, Farmacias del Ahorro, and Farmacias Yza typically have doctors on-site who can provide consultations at minimal cost. This is a quick and budget-friendly solution for basic medical needs or getting prescriptions."
+  },
+  {
+    "input": "I need to see a doctor for something minor in Mérida. What's my best option?",
+    "output": "For minor medical concerns, pharmacy-based clinics at Dr. Simi, Farmacias del Ahorro, or Farmacias Yza offer the most efficient solution. These locations typically have physicians available for walk-in consultations at very reasonable rates, making them ideal for basic healthcare needs or obtaining prescriptions without the hassle of hospital visits."
+  },
+  {
+    "input": "Where can I find a 24/7 pharmacy in Mérida?",
+    "output": "Pharmacies like Dr. Simi, Farmacias del Ahorro, and Farmacias Yza usually have branches that stay open 24/7. They're reliable options if you need medicine late at night."
+  },
+  {
+    "input": "Are there all-night pharmacies in Mérida?",
+    "output": "Yes, several pharmacy chains including Dr. Simi, Farmacias del Ahorro, and Farmacias Yza have locations that operate 24/7. These are dependable options when you need medications outside of normal business hours."
+  },
+  {
+    "input": "Where can I get medicine in the middle of the night in Mérida?",
+    "output": "You'll find 24-hour service at select branches of Dr. Simi, Farmacias del Ahorro, and Farmacias Yza. These round-the-clock pharmacies ensure you can access necessary medications at any hour, providing peace of mind for unexpected nighttime medical needs."
+  },
+  {
+    "input": "Where can I buy medicine and get a prescription filled at the same place?",
+    "output": "Dr. Simi, Farmacias del Ahorro, and Farmacias Yza often have doctors available to write prescriptions and pharmacies on-site where you can fill them right away."
+  },
+  {
+    "input": "Where can I recharge my Va y Ven card in Mérida?",
+    "output": "You can recharge your Va y Ven card at OXXO stores, official recharge modules, or using the Va y Ven mobile app. The app allows you to top up digitally and even check your balance."
+  },
+  {
+    "input": "What should I do if I lose my Va y Ven card?",
+    "output": "If you lose your Va y Ven card, go to one of the official modules with your ID to report it. You can request a replacement, although the balance might not be recoverable unless it was linked to your name."
+  },
+  {
+    "input": "Can I use someone else's Va y Ven card?",
+    "output": "Technically yes, for regular cards. But student and senior discount cards are personal and should only be used by the registered person. Misuse may lead to the card being blocked."
+  },
+  {
+    "input": "Is there an app for the Va y Ven system?",
+    "output": "Yes, the Va y Ven app lets you check your balance, see your travel history, and even recharge your card online. It's very helpful if you use the bus regularly."
+  },
+  {
+    "input": "Do I need to validate my Va y Ven card every time I board the bus?",
+    "output": "Yes, you should always tap your Va y Ven card on the scanner when entering the bus. It's how your fare is deducted and your trip is recorded."
+  },
+  {
+    "input": "Can tourists use the Va y Ven system in Mérida?",
+    "output": "Absolutely. Tourists can buy a regular Va y Ven card at kiosks or OXXO stores and use it like any local resident. It's a convenient and affordable way to get around the city."
+  },
+   {
+    "input": "Can I get a Va y Ven student card if I'm a university student in Mérida?",
+    "output": "Yes! If you're enrolled at a university in Mérida, you can apply for a Va y Ven student card. Just bring your official ID, a proof of address, and proof of enrollment to any of the authorized modules like Plaza Oriente or Colonia México. Once approved, you'll get discounted fares on the bus system."
+  },
+  {
+    "input": "What documents do I need to get the Va y Ven student card in Mérida?",
+    "output": "You'll need three things: an official ID (like INE), a recent proof of address (such as a utility bill), and valid proof of enrollment (like a student ID or certificate). Bring these to any official Va y Ven module to apply for the discounted student card."
+  },
+  {
+    "input": "Is Uber allowed at the Mérida airport?",
+    "output": "Yes, Uber is allowed, but there’s a bit of tension with the airport taxi unions. Most Uber drivers won’t pick you up directly at the terminal entrance. Instead, they’ll ask you to walk outside the airport area to a nearby pickup spot. It’s a little extra effort, but it can save you money."
+  },
+  {
+    "input": "Should I take a taxi or Uber from Mérida airport?",
+    "output": "Taxis from the airport are easy to find, but they're usually more expensive. **Uber** is the cheaper option, though you'll likely need to walk outside the terminal area to meet your driver. If you're okay with a bit of coordination, Uber is a better value."
+  },
+  {
+    "input": "Can I use a ride app like Uber when arriving in Mérida?",
+    "output": "Yes, Uber works in Mérida, including near the airport. Just keep in mind that because of local taxi tensions, your driver might ask you to walk a bit outside the terminal to meet. It’s normal, and many travelers do it to save money."
   }
 ]
