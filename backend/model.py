@@ -1,4 +1,4 @@
-from transformers import AutoModelForCausalLM, AutoTokenizer
+from transformers import AutoModelForCausalLM, AutoTokenizer, BitsAndBytesConfig
 from peft import PeftModel
 import torch
 import os
@@ -15,11 +15,16 @@ def load_model():
     tokenizer.add_special_tokens({"pad_token": PAD_TOKEN})
     tokenizer.padding_side = "right"
 
+    quantization_config = BitsAndBytesConfig(
+        load_in_4bit=True, bnb_4bit_quant_type="nf4", bnb_4bit_compute_dtype=torch.float16
+    )
+
     model = AutoModelForCausalLM.from_pretrained(
         BASE_MODEL,
         device_map="auto" if torch.cuda.is_available() else {"": "mps" if torch.mps.is_available() else "cpu"},
         low_cpu_mem_usage=True,
-        torch_dtype=torch.float16
+        torch_dtype=torch.float16,
+        quantization_config=quantization_config
     )
     model.resize_token_embeddings(len(tokenizer), pad_to_multiple_of=8)
 
